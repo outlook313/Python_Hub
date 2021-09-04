@@ -9,3 +9,6 @@ Often, programmers fall in love with Python because of the increased productivit
 
 ![python](https://user-images.githubusercontent.com/89722385/132040157-1aaec868-56b3-496b-b9f0-6a37a34a40a5.jpg)
 
+[datasetbuyscomputer.csv](https://github.com/outlook313/Python_Hub/files/7110174/datasetbuyscomputer.csv)
+
+
